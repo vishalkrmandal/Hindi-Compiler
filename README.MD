@@ -885,5 +885,4 @@ Provide more detailed error messages in Hindi to help users debug their code.
 
 ### 5. IDE Integration
 
-Develop plugins for popular IDEs to provide syntax highlighting, code completion, and debugging support for HindiC.#   H i n d i - C o m p i l e r  
- 
+Develop plugins for popular IDEs to provide syntax highlighting, code completion, and debugging support for HindiC.
